@@ -30,7 +30,7 @@ const HeaderTwo = ({
       )}
       <h1>
         <Link to="/">
-          Movies Time
+          Movies-DB
         </Link>
       </h1>
       <section className='header-actions'>
